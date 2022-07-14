@@ -1,5 +1,5 @@
 {
-  "name": "Man-Userbot",
+  "name": "Rib-Userbot",
   "description": "[Man-Userbot] userbot Telegram modular yang berjalan pada Python 3.9+",
   "stack": "container",
   "env": {
